@@ -128,7 +128,10 @@ http://172.106.17.198:80/live/Edieneteste/523252xpp/24820.m3u8?token=TRNQV0BQQFg
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SÉRIES", Cinemax HD
 http://172.106.17.198:80/live/Edieneteste/523252xpp/24826.m3u8?token=TRNQV0BQQFgTAwgFAAQBAARXWgBQAgZTAAMHVVwEVwUAAA8DAlxVWlQSFRZAQUZUBw48WQZBDlBRDgcAFEMWElNDZ19XGlhABgUMDQEXGBMSCg5VQFkETkdGXFIaW0FXBwEPFB8aBxpFVUtaUllrVQMVClMHQQ4MEFpZGhoODT5SVFVXXVxAWBMAGxgRXEdBRFlBcVBRFE9FYlBaXQIMDBYXGGZSShYLUllJVVBUWxEqFwdRQE8WAAxCR1dMBEFbFAAMBQMaTkBSX0xaR0dNE1xBIWJATxYHHUJQWEsIDA8UCxpbAE1aQB0SUEdsR1FCEhEGUQ8GRkBfFAUUFEMOAE5uW1ldVgcBRVlWWkAXDhNXQU8SDwxaCxFZR2lICAdDDBMLBQEBQB8=
- 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="FILMES E SÉRIES", Comedy Central HD
+http://srv.maxptv.net:8080//BMW604/654321/199
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="FILMES E SÉRIES", Star HD
 http://172.106.17.198:80/live/Edieneteste/523252xpp/24834.m3u8?token=TRNQV0BQQFgTBAEMAwYDCV9aUAEEVVAAVwNWUwEHUFYPVFwBVVlQB1cSFRZAQUZUBw48WQZBDlBRDgYCFEMWElNDZ19XGlhABgUMDQEXGBMSCg5VQFkETkdGXFIaW0FQBQgLBhEUQAdJRFxGXVRYbgIGFVkBBhZYC0NZWhRDDA9pVV1bUlYGQAsSCRYfF11CFkFZEiNRBkJIFmFTVAQADlsRHhZjWRAWWFNQRFJWVV5GLxdUA0EYQAdfQURZFQZDDBMMAgUMQE4TU1ZBXUFGSERZQXIwQRhAAE5BU1YSCg5YEwIUXgsXWhMcG11AakZUFRcRVQMOURBHDBcGGk1BDFdJZ1VcVgwHUkRQW11GFgtEUkEcQA5bDAxCWkRnEQoFFAsaBAoNVVITTQ==
  
@@ -138,8 +141,6 @@ http://172.106.17.198:80/live/Edieneteste/523252xpp/24840.m3u8?token=TRNQV0BQQFg
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
 
-#EXTINF:-1 tvg-logo=" " group-title="",
- 
 #EXTINF:-1 tvg-logo=" " group-title="",
  
 #EXTINF:-1 tvg-logo=" " group-title="",
