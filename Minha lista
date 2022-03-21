@@ -70,16 +70,16 @@ http://srv.maxptv.net:8080/live/BMW464/123123/195.ts
 http://srv.maxptv.net:8080/live/BMW464/123123/191.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS", Discovery HGTV HD 
-http://195.181.163.145:8880/live/Daniel4120/4120Daniel/33051.jpg?token=HhsNA0IKEQIaUFRWBFYABg4JB1hTUlZRAgtVAVdaA1MGXFcGVAFXXA1HSRVFFhcBWVVvUFNGXAQDCFMCGEFAQQBLOgtVQAkaCVZXDwFUR0gaTFlUUkZcBgYMUQcBUAABVxVHElgGEQIaVFEDD1JHSBpdSE1SFghWXGcCVkIKVldHAwsXXQ4fGlcLOlNTDwQKXBoKGwdGShVZSxYRDg1AXgkVRwBYFkFZTABHDRRQVFwAGhwbVAsTWURKHxEOQXdgRxVHB0kWVlZLDApZFFhHEEsaHBteFzlFVUsSQVECWFcXG19AAUAfGlUEHWhVDQsKXVtEUFgKFRUKGlcRGEFYXQtQEQ1DPUNRXEdfFQdUUl0PGk0=
+http://srv.maxptv.net:8080/live/BMW464/123123/193.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS", Discovery Investigação HD
-http://srv.maxptv.net:8080//BMW604/654321/121
+http://srv.maxptv.net:8080/live/BMW464/123123/121.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS", Discovery Science HD
-http://srv.maxptv.net:8080//BMW604/654321/187
+http://srv.maxptv.net:8080/live/BMW464/123123/187.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTÁRIOS", Discovery Theater HD
-http://srv.maxptv.net:8080//BMW604/654321/185
+http://srv.maxptv.net:8080/live/BMW464/123123/185.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="DOCUMENTÁRIOS", Discovery TLC
 http://srv.maxptv.net:8080//BMW604/654321/23
