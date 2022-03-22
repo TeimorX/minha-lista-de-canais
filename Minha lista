@@ -43,19 +43,19 @@ http://srv.maxptv.net:8080/live/BMW464/123123/62.ts
 http://172.106.17.198:80/live/Edieneteste/523252xpp/138801.m3u8?token=TRNQV0BQQFgTCVwHCwdXCAVXVlJWBVFSUQcGAlxRVlYOAV0HAFlRBgUSFRZAQUZUBw48WQZBDlNWDg0GCU1BFEVUSmlaXEBYEwcMAQoHFh1EFwpdB0EOUkkURV9cQ1lDDwgJBxEUQAdJRFxGXVRYbgIGFVkBBhZYC0NZWhRDDA9pVV1bUlYGQAsSCRYfF11CFkFZEiNRBkJIFmFTVAQADlsRHhZjWRAWWFNQRFJWVV5GLxdUA0EYQAdfQURZFQZDDBMPAwAaTkBSX0xaR0dNE1xBIWJATxYHHUJQWEsIDA8UCxpbAE1aQB0SUEdsR1FCEhEGUQ8GRkBfFAUUFEMOAE5uW1ldVgcBRVlWWkAXDhNXQU8SDwxaCxFZR2lICAdDDBMLAwMJQB8=
  
 #EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="NOTICIÁRIOS", CNN Brasil HD
-http://138.201.252.47:80/live/Edieneteste/523252xpp/30278.m3u8?token=TRNQV0BQQFgTVV9XB1EHAlBaAANQAgVWUlNRBwlVB1JTBFkEUApWVQESFRZAQUZUBw48WQZBDlFVBAIOFEMWElNDZ19XGlhABgUMDQEXGBMSCg5VQFkETkdGXFIaW0FSBQkBBwIMQE4TVUFAVkdaUAo8B1UUClcHRwxbQ1QNT0NZX2dSVlUDDFUSAxYDFxgTDxATElhBdVBXFhgWbAQPBFVeVRYVGDIDQ0RQV1pFVVIHDEN8FgdVQEkUV19MEwIVUxMCFAcBVlMTHBtXXEBaRRQaQQpAIWZASRRQTkwEDRJfXlYUCRoPUUQIGxgRXEduFAYQRBAGVQ8ARBcMGlFBTRRcWU5sWw0MX1VaQFpaWkJEWUEBQE8WDwpYXEJXEzwRX1UaDBEJUVUEEkQ=
+http://srv.maxptv.net:8080/live/BMW464/123123/8890.ts
  
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="NOTICIÁRIOS", Globo News HD
-http://srv.maxptv.net:8080//BMW604/654321/50262
+http://srv.maxptv.net:8080/live/BMW464/123123/143.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="NOTICIÁRIOS", Band News HD
-http://srv.maxptv.net:8080//BMW604/654321/224
+http://srv.maxptv.net:8080/live/BMW464/123123/224.ts
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIÁRIOS", Record News HD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Jovem_Pan_News_logo.png/revision/latest/scale-to-width-down/400?cb=20150805142926" group-title="NOTICIÁRIOS", Jovem Pan News HD
-http://srv.maxptv.net:8080//BMW604/654321/47532
+http://srv.maxptv.net:8080/live/BMW464/123123/47532.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS", Animal Planet HD
 http://srv.maxptv.net:8080/live/BMW464/123123/232.ts
