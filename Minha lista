@@ -124,7 +124,7 @@ http://srv.maxptv.net:8080//BMW604/654321/53
 http://srv.maxptv.net:8080//BMW604/654321/203
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="FILMES E SÉRIES", Comedy Central HD
-http://srv.maxptv.net:8080//BMW604/654321/20263
+http://srv.maxptv.net:8080/live/BMW464/123123/199.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="FILMES E SÉRIES", Star HD
 http://srv.maxptv.net:8080//BMW604/654321/157
