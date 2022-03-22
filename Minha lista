@@ -126,6 +126,12 @@ http://srv.maxptv.net:8080/live/BMW464/123123/203.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="FILMES E SÉRIES", Comedy Central HD
 http://srv.maxptv.net:8080/live/BMW464/123123/199.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNImCHoeXJqHTbCV1y5ijL3uEkZ-yXoQlO-Q&usqp=CAU" group-title="FILMES E SÉRIES", E! HD
+http://srv.maxptv.net:8080/live/BMW464/123123/516.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUJd2kwkQUAaCDShHl9SC4D4NI2jXxyDqbg&usqp=CAU" group-title="FILMES E SÉRIES", FX HD
+http://srv.maxptv.net:8080/live/BMW464/123123/145.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="FILMES E SÉRIES", Star HD
 http://srv.maxptv.net:8080/live/BMW464/123123/157.ts
  
@@ -138,10 +144,6 @@ http://srv.maxptv.net:8080/live/BMW464/123123/4.ts
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
 
-#EXTINF:-1 tvg-logo=" " group-title="",
- 
-#EXTINF:-1 tvg-logo=" " group-title="",
- 
 #EXTINF:-1 tvg-logo=" " group-title="",
  
 #EXTINF:-1 tvg-logo=" " group-title="",
