@@ -150,14 +150,15 @@ http://srv.maxptv.net:8080/live/BMW464/123123/39.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES", TNT Séries HD
 http://srv.maxptv.net:8080/live/BMW464/123123/517.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES", Universal HD
+http://srv.maxptv.net:8080/live/BMW464/123123/13215.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="FILMES E SÉRIES", Warner HD
 http://srv.maxptv.net:8080/live/BMW464/123123/4.ts
  
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
   
-#EXTINF:-1 tvg-logo=" " group-title="",
- 
 #EXTINF:-1 tvg-logo=" " group-title="",
  
 #EXTINF:-1 tvg-logo=" " group-title="",
