@@ -82,31 +82,31 @@ http://srv.maxptv.net:8080/live/BMW464/123123/187.ts
 http://srv.maxptv.net:8080/live/BMW464/123123/185.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="DOCUMENTÁRIOS", Discovery TLC
-http://srv.maxptv.net:8080//BMW604/654321/23
+http://srv.maxptv.net:8080/live/BMW464/123123/23.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTÁRIOS", Discovery Turbo HD
-http://srv.maxptv.net:8080//BMW604/654321/183
+http://srv.maxptv.net:8080/live/BMW464/123123/183.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="", Discovery World HD
-http://srv.maxptv.net:8080//BMW604/654321/181
+http://srv.maxptv.net:8080/live/BMW464/123123/181.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="DOCUMENTÁRIOS", Food Network HD
-http://srv.maxptv.net:8080//BMW604/654321/158
+http://srv.maxptv.net:8080/live/BMW464/123123/159.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTÁRIOS", H2 HD
-http://srv.maxptv.net:8080//BMW604/654321/137
+http://srv.maxptv.net:8080/live/BMW464/123123/137.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTÁRIOS", History HD
-http://srv.maxptv.net:8080//BMW604/654321/532
+http://srv.maxptv.net:8080/live/BMW464/123123/532.ts
  
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="DOCUMENTÁRIOS", National Geographic HD 
-http://srv.maxptv.net:8080//BMW604/654321/99
+http://srv.maxptv.net:8080/live/BMW464/123123/99.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTÁRIOS", National Geographic Wild HD
-http://srv.maxptv.net:8080//BMW604/654321/101
+http://srv.maxptv.net:8080/live/BMW464/123123/101.ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="DOCUMENTÁRIOS", Tru TV HD
-http://104.194.10.82:80/live/Edieneteste/523252xpp/134623.m3u8?token=TRNQV0BQQFgTAVgNCwAHV1cCVQRRAFADXFAGBglZVlZQAgAPAwkDW1cSFRZAQUZUBw48WQZBDlNWAgMEC01BFEVUSmlaXEBYEwcMAQoHFh1EFwpdB0EOUkkURV9cQ1lDBAMPBAoNUUAdElxMR1BGXwcPPFQHFV0BABQPWE0ND00UXlZpV10PA19UGw4RBRYdRAoQQEBZFiNXBBUbGDUGDVNSV1sTHkIyUEJNXVBcRFAFAgwQLhdQA0caF1RRFREAQlQaDBEKVVMBEhUWUFpBXxIRGhJYQXYwRxoXU0AVBg9FWFdYEQJADwJFARYfF11COREGQxYRUQMIU0cUAkNTQxoTVVdLZwENX15cV0dcW18VQVkSU0EYQAhZW19MDhE+RlhcFAkaUVMEBwwNCxdJ
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="FILMES E SÉRIES", AMC HD
 http://srv.maxptv.net:8080//BMW604/654321/512
