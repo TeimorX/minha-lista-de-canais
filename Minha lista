@@ -136,20 +136,28 @@ http://srv.maxptv.net:8080/live/BMW464/123123/163.ts
 http://srv.maxptv.net:8080/live/BMW464/123123/145.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXK4PeCe7y3O9qhggtmunhZT-2E13Zt0yj4EW9k1NIY7toAhZv5XdIODr&s=10" group-title="FILMES E SÉRIES", HBO HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/131.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMeFMTpfNw24zxvNF7Uvv8PWAPkeTrdaVlbcc0As5jf7mXDpXNa3pVUU&s=10" group-title="FILMES E SÉRIES", HBO 2 HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/135.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="FILMES E SÉRIES", HBO Family HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/133.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="FILMES E SÉRIES", HBO Mundi HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/521.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES E SÉRIES", HBO Plus HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/128.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3ND9TOsZ6xJOOAxKhyKZoX7ADz9BqUSmDQWqDOfeVZdiii9b_JdIC2U&s=10" group-title="FILMES E SÉRIES", HBO Pop HD
- 
+http://srv.maxptv.net:8080/live/BMW464/123123/111.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7ZCGBP153u_n58ZXJLkAvnuSlmoxY10qdG5Fkx9GcM9P-zG9Y6XCf30&s=10" group-title="FILMES E SÉRIES", HBO Signature HD
+http://srv.maxptv.net:8080/live/BMW464/123123/531.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevGwj4wDxJqMH_Ih_iTy2yekGsy5lj81xh-P1_SJTrbzBIRFY8ZFlLQiU&s=10" group-title="FILMES E SÉRIES", HBO Xtreme HD
+http://srv.maxptv.net:8080/live/BMW464/123123/520.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="FILMES E SÉRIES", Lifetime HD
 http://srv.maxptv.net:8080/live/BMW464/123123/522.ts
