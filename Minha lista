@@ -31,7 +31,7 @@ http://srv.maxptv.net:8080/live/BMW464/123123/130.ts
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-1536x1536.png" group-title="CANAIS ABERTOS", SBT HD
-http://srv.maxptv.net:8080/live/BMW464/123123/59.ts
+http://104.149.232.102:80/Usuario001/Usuario_001_D/856529?token=QxAKVEUJRAgRDwRVWg9UBAJQBAQDV1EAAwZdA1ZUAwENVwABUgMACgQVGEQQTUNTUwtoXVMRCg0CBlEAXU0WFktXEGpfBUQIEQUBU1ELCQEQShVAXl5VFw0BUgZcVQxRAQdbGRQRD1YRDRZXVQgJAxBKFVFPR1VHWVEIbQAEQgpbV0APWBQKXh8VWwg8XVRbUwhTFg0RABcbEg1BFEMODU1eDhkUAw9GQVZAA0EDEwQDVgQWGxFTWkJeEEAdQw5BemBAGRQEHkZWWUcPDFcTDBASRBYbEVlGaEIBQRATUQJVVxAXDENWEB8VWQcbZlJZXAhSV0NaX1tEEl4QVlEWTxpfDVtfFQlAbEddAkEDEwQBUwcEFU4=
  
 #EXTINF:-1 tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS ABERTOS", Record HD
 http://srv.maxptv.net:8080/live/BMW464/123123/240.ts
