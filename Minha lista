@@ -42,9 +42,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/980370
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_tCXzWTLdZh_Dus_sIYUs4PHJKYaq38jcZr--DiLA0eNJwwjUuRqYj17XzgvqsDOAS9rh883Rw=s88-c-k-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS", Rede Vida
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856524
  
-#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/02/loading.jpg" group-title="CANAIS ABERTOS", Loading HD
-http://172.106.17.198:80/live/Edieneteste/523252xpp/138801.m3u8?token=TRNQV0BQQFgTCVwHCwdXCAVXVlJWBVFSUQcGAlxRVlYOAV0HAFlRBgUSFRZAQUZUBw48WQZBDlNWDg0GCU1BFEVUSmlaXEBYEwcMAQoHFh1EFwpdB0EOUkkURV9cQ1lDDwgJBxEUQAdJRFxGXVRYbgIGFVkBBhZYC0NZWhRDDA9pVV1bUlYGQAsSCRYfF11CFkFZEiNRBkJIFmFTVAQADlsRHhZjWRAWWFNQRFJWVV5GLxdUA0EYQAdfQURZFQZDDBMPAwAaTkBSX0xaR0dNE1xBIWJATxYHHUJQWEsIDA8UCxpbAE1aQB0SUEdsR1FCEhEGUQ8GRkBfFAUUFEMOAE5uW1ldVgcBRVlWWkAXDhNXQU8SDwxaCxFZR2lICAdDDBMLAwMJQB8=
- 
 #EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="NOTICIÁRIOS", CNN Brasil HD
 http://srv.maxptv.net:8080/live/BMW464/123123/8890.ts
  
