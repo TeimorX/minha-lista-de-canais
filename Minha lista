@@ -12,9 +12,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/981564
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS", Canal Brasil HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856652
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="CANAIS ABERTOS", TV Escola HD
-http://138.201.252.47:80/live/Edieneteste/523252xpp/114809.m3u8?token=TRNQV0BQQFgTCFgBBVAMBAMCUVFbVgZVAVQMDgADUANUAgxTUQ9QBFMSFRZAQUZUBw48WQZBDlNUAg0GAU1BFEVUSmlaXEBYEwcMAQoHFh1EFwpdB0EOUkkURV9cQ1kPQ11UGhFdGhZUQldVX2pQVBAKAFVAWVoXCVoZFFcPPAVTXFlYVxpYQAASFRZaRkQTXEEiAlBDGUIxU1lTWw4OQRARaFdBTAsBWEBYV1JaFH0SBwISTkFWCxFEVEJdQ1kPQ11UGhFbDRdfREtNEQ8WczRBTxIHG0AHC0VcWVZDWUNbAk0OERRAC0JvS1FAQUZUBw4GQkBZFlJHGhdbWRk8AllfVlNQTAsNX0MbDhEEFh1EDgxeCxdbEDpGXFIaWw0UWl1F
- 
 #EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="CANAIS ABERTOS", Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
  
@@ -208,10 +205,7 @@ http://104.149.157.50:80/Usuario001/Usuario_001_D/856680?token=QxAKVEUJRAgRBlFRU
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856140
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1280px-Syfy.svg.png" group-title="FILMES E SÉRIES", SyFy HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856148
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="FILMES E SÉRIES", TBS HD
-http://srv.maxptv.net:8080/live/BMW464/123123/39.ts
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/8561
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES", TCM
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856154
@@ -229,7 +223,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856006
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856012
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="FILMES E SÉRIES", Telecine Premium HD
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="FILMES E SÉRIES", Telecine Touch HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856026
