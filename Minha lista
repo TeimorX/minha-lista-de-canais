@@ -104,7 +104,10 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856300
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTÁRIOS", History HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856295
- 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTÁRIOS", History SD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856293
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="DOCUMENTÁRIOS", National Geographic HD 
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856305
  
@@ -248,8 +251,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856179
  
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
-
-#EXTINF:-1 tvg-logo=" " group-title="",
 
 #EXTINF:-1 tvg-logo=" " group-title="",
  
