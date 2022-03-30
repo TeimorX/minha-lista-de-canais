@@ -92,7 +92,10 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856059
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIOS", Discovery World HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856064
- 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZM9hmZ8wthPL4nQg8-XxISqyYORGqhGd1RA&usqp=CAU" group-title="DOCUMENTÁRIOS", Fish TV HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856669
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="DOCUMENTÁRIOS", Food Network HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856676
  
@@ -248,8 +251,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856179
  
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
-
-#EXTINF:-1 tvg-logo=" " group-title="",
 
 #EXTINF:-1 tvg-logo=" " group-title="",
 
