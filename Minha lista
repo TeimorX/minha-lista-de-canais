@@ -36,8 +36,8 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-1536x1536.png" group-title="CANAIS ABERTOS", SBT RJ HD
 http://104.149.232.102:80/Usuario001/Usuario_001_D/981589?token=QxAKVEUJRAgRAQ1QUFsHB1RSBAVVBAIFBVFQU1ECV1RaC1sEBVhSVAMVGEQQTUNTUwtoXVMRCgwPAVEKXU0WFktXEGpfBUQIEQUBU1ELCQEQShVAXl5VFw0BUgZcVQ1QCgRQGRQRD1YRDRZUUAgDBBBKFVFPR1VHWVEIbQAEQgpbV0APWBQKXh8VWwg8XVRbUwhTFg0RABcbEg1BFEMODU1eDhkUAw9GQVZAA0EDEwcFVgIWGxFTWkJeEEAdQw5BemBAGRQEHkZWWUcPDFcTDBASRBYbEVlGaEIBQRATUQJVVxAXDENWEB8VWQcbZlJZXAhSV0NaX1tEEl4QVlEWTxpfDVtfFQlAbEddAkEDEwQBUwcAFU4=
  
-#EXTINF:-1 tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS ABERTOS", Record HD
-http://srv.maxptv.net:8080/live/BMW464/123123/240.ts
+#EXTINF:-1 tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS ABERTOS", Record RJ HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/980370
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_tCXzWTLdZh_Dus_sIYUs4PHJKYaq38jcZr--DiLA0eNJwwjUuRqYj17XzgvqsDOAS9rh883Rw=s88-c-k-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS", Rede Vida HD
 http://srv.maxptv.net:8080/live/BMW464/123123/62.ts
@@ -110,9 +110,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856305
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTÁRIOS", National Geographic Wild HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856310
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="DOCUMENTÁRIOS", Tru TV HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2893493781/5538174753/541
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="FILMES E SÉRIES", AMC HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856082
