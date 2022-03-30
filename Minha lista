@@ -82,16 +82,16 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856068
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856047
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTÁRIOS", Discovery Theater HD
-http://srv.maxptv.net:8080/live/BMW464/123123/185.ts
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856053
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="DOCUMENTÁRIOS", Discovery TLC
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/980372
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTÁRIOS", Discovery Turbo HD
-http://srv.maxptv.net:8080/live/BMW464/123123/183.ts
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856059
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIOS", Discovery World HD
-http://srv.maxptv.net:8080/live/BMW464/123123/181.ts
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856064
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="DOCUMENTÁRIOS", Food Network HD
 http://srv.maxptv.net:8080/live/BMW464/123123/159.ts
