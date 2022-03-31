@@ -39,37 +39,37 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/980370
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_tCXzWTLdZh_Dus_sIYUs4PHJKYaq38jcZr--DiLA0eNJwwjUuRqYj17XzgvqsDOAS9rh883Rw=s88-c-k-c0x00ffffff-no-rj" group-title="CANAIS ABERTOS", Rede Vida
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856524
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", BIS HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="CANAIS DE ENTRETENIMENTO", BIS HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856644
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Canal OFF HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="CANAIS DE ENTRETENIMENTO", Canal OFF HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856716
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Canção Nova HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS DE ENTRETENIMENTO", Canção Nova HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856656
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Futura HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="CANAIS DE ENTRETENIMENTO", Futura HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856684
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Globosat + HD
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="CANAIS DE ENTRETENIMENTO", Globosat + HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856698
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", GNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="CANAIS DE ENTRETENIMENTO", GNT HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856687
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", MTV 00 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="CANAIS DE ENTRETENIMENTO", MTV 00 HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/979436
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", MTV HD
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="CANAIS DE ENTRETENIMENTO", MTV HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856703
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Multishow HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="CANAIS DE ENTRETENIMENTO", Multishow HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856709
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Viva HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUF_StuUJl9WctM7Q2b904O5uWZ2-5CExeg&usqp=CAU" group-title="CANAIS DE ENTRETENIMENTO", Viva HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856738
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS DE ENTRETENIMENTO", Woohoo HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="CANAIS DE ENTRETENIMENTO", Woohoo HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856734
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS INFANTIS", Baby TV HD
