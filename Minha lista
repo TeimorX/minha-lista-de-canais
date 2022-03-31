@@ -113,21 +113,6 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856635
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIS", ZooMoo
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856639
-
-#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="NOTICIÁRIOS", CNN Brasil HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856490
- 
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="NOTICIÁRIOS", Globo News HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856395
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="NOTICIÁRIOS", Band News HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856485
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIÁRIOS", Record News HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Jovem_Pan_News_logo.png/revision/latest/scale-to-width-down/400?cb=20150805142926" group-title="NOTICIÁRIOS", Jovem Pan News HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/983323
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS", Animal Planet HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856285
@@ -313,7 +298,22 @@ http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856174
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="FILMES E SÉRIES", Warner HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856179
+
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="NOTICIÁRIOS", CNN Brasil HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856490
  
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="NOTICIÁRIOS", Globo News HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856395
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="NOTICIÁRIOS", Band News HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856485
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIÁRIOS", Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Jovem_Pan_News_logo.png/revision/latest/scale-to-width-down/400?cb=20150805142926" group-title="NOTICIÁRIOS", Jovem Pan News HD
+http://vipeiptv.com:8080/Usuario001/Usuario_001_D/983323
+
 #EXTINF:-1 tvg-logo="https://www.lance.com.br/cdn-cgi/image/width=520,height=350,quality=75/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="FUTEBOL", Campeonato Carioca 1 HD
 http://srv.maxptv.net:8080//BMW604/654321/51087
 
