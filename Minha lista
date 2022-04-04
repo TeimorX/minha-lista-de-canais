@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura HD
-http://vipeiptv.com:8080/Usuario001/Usuario_001_D/983084
+http://vipeiptv.com:8080/Usuario001/Usuario_001_F/983084
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-1.png" group-title="CANAIS ABERTOS", TV Câmara
 http://vipeiptv.com:8080/Usuario001/Usuario_001_D/856554
