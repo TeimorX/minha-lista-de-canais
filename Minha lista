@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.sky.com.br/programacao/grade-programacao"
  
-#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura HD
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name"TV Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS", TV Cultura HD
 http://vipeiptv.com:8080/Usuario001/Usuario_001_F/983084
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-1.png" group-title="CANAIS ABERTOS", TV Câmara
